@@ -112,7 +112,7 @@ cd ios
 bundle exec pod install
 ```
 
-3. Reinstall pods and run:
+3. Run the app:
 
 ```bash
 npx react-native run-ios

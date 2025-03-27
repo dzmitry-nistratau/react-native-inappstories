@@ -12,16 +12,6 @@ This repository includes a React Native application that demonstrates the librar
 npm install react-native-inappstories
 ```
 
-## Usage
-
-```js
-import { multiply } from 'react-native-inappstories';
-
-// ...
-
-const result = multiply(3, 7);
-```
-
 ## Contributing
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
